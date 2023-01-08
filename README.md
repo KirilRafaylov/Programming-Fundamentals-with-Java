@@ -6,7 +6,7 @@
 
 
 
-__**Description**__
+## __**Description**__
 
 
 
@@ -18,6 +18,13 @@ In this repo you can find all the tasks and the solutions from lectures and exer
 - __Methods__
 - __List__
 - __Objects and Classes__
+- __Associative Arrays__
+- __Text Processing__
+
+
+
+
+#### __**Created by**__  Kiril Rafaylov
 
 
 
