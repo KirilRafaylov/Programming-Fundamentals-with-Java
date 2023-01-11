@@ -11,7 +11,7 @@
 
 
 
-In this repo you can find all the tasks from lectures and exercises from the following course __Programming Fundamentals with Java__ held by www.softuni.bg and also my solutions to them.
+In this repo you can find all the tasks from lectures and exercises from the following course __Programming Fundamentals with Java__ held by www.softuni.bg and also my solutions to all the tasks.
 - __Basic Syntax, Conditional Statements and Loops__
 - __Data Types and Variables__
 - __Arrays__
