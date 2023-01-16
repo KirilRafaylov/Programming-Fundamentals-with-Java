@@ -13,7 +13,7 @@
 
 
 
-In this repo you can find all the tasks from lectures and exercises from the following course __Programming Fundamentals with Java__ held by www.softuni.bg and also my solutions to all tasks.
+In this repo you can find all the tasks from lectures and exercises from the following course __Programming Fundamentals with Java__ held by www.softuni.bg and also my solutions to all tasks. The following course introduces how we can use arrays, methods, lists, objects and classes, associative arrays and how to process text while programming with Java.
 - __Basic Syntax, Conditional Statements and Loops__
 - __Data Types and Variables__
 - __Arrays__
