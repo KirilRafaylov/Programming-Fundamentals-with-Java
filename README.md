@@ -26,7 +26,8 @@ In this repo you can find all the tasks from lectures and exercises from the fol
 
 
 
-#### __**Created by**__  Kiril Rafaylov (**kiril.raf@gmail.com**)
+### __**Created by**__  Kiril Rafaylov 
+**kiril.raf@gmail.com**
 
 
 
