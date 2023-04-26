@@ -4,16 +4,7 @@
 
 
 
-
-
-
-
 ## __**Description**__
-
-
-
-
-
 
 
 
@@ -27,7 +18,6 @@ In this repo you can find all the tasks from lectures and exercises included in 
 - __Objects and Classes__
 - __Associative Arrays__
 - __Text Processing__
-
 
 
 
